@@ -47,6 +47,10 @@ Create interactive ML web apps.
 ##  🚀 Python Assignments
 Sharpen your Python skills for ML.
 
+```
+Bishehwor Neupane. Happy Learning !
+```
+
 ---
 
 This guide provides resources and assignments to prepare you for the exciting world of Machine Learning. Dive in, practice, and thrive in your ML journey! 🚀
