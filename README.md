@@ -52,5 +52,7 @@ Sharpen your Python skills for ML.
 This guide provides resources and assignments to prepare you for the exciting world of Machine Learning. Dive in, practice, and thrive in your ML journey! 🚀
 
 ```
-🚀 Bishehwor Neupane. Happy Learning ! 🚀
+🚀 Bisheshwor Neupane.
+Machine Learning Engineer
+Happy Learning ! 🚀
 ```
